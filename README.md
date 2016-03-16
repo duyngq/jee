@@ -1,3 +1,3 @@
 # jee
 
-This is the first attempt to start with JEE
+This is the first attempt to start JEE
